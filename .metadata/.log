@@ -1,0 +1,16 @@
+!SESSION 2013-01-15 06:32:27.756 -----------------------------------------------
+eclipse.buildId=v21.0.1-543035
+java.version=1.7.0_11
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2013-01-15 06:33:21.245
+!MESSAGE DDMS files not found: C:\Users\Evan\Desktop\development\adt-bundle-windows-x86_64\eclipse\platform-tools\adb.exe C:\Users\Evan\Desktop\development\adt-bundle-windows-x86_64\eclipse\tools\hprof-conv.exe C:\Users\Evan\Desktop\development\adt-bundle-windows-x86_64\eclipse\tools\traceview.bat 
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-01-15 06:34:54.142
+!MESSAGE Failed to load properties file for project 'Hw_1_try3'
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2013-01-15 07:14:17.757
+!MESSAGE activity_main.xml: Couldn't resolve resource @string/activity_grid
